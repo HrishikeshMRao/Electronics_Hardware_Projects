@@ -1,4 +1,5 @@
 <p float="left">
-  <img src="https://github.com/HrishikeshMRao/Electronics_Hardware_Projects/blob/main/PCB%20Designs/Altium%20Designer%20projects/AI%20module%20E-box/IMU%20PCB/IMU%20PCB%20Real.jpg" width="350" />
-  <img src="https://github.com/HrishikeshMRao/Electronics_Hardware_Projects/blob/main/PCB%20Designs/Altium%20Designer%20projects/AI%20module%20E-box/IMU%20PCB/Imu%20PCB.jpg" width="650" /> 
+  <img src="https://github.com/HrishikeshMRao/Electronics_Hardware_Projects/blob/main/PCB%20Designs/Altium%20Designer%20projects/AI%20module%20E-box/IMU%20PCB/IMU%20PCB%20Real.jpg" width="300" />
+  <img src="https://github.com/HrishikeshMRao/Electronics_Hardware_Projects/blob/main/PCB%20Designs/Altium%20Designer%20projects/AI%20module%20E-box/IMU%20PCB/Imu%20PCB.jpg" width="350" /> 
 </p>
+IMU pcb holds a BNO055 AND BNO010 for arm and AI mission respectively hence it is provided with the option to power them either through the mother board or drirectly through a micro usb. It mounts over the motherboard that provides 5V to the arm's IMU.
