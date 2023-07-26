@@ -1,10 +1,7 @@
-![]()
-![]()
-![]()
-![]()
 <p float="left">
   <img src="https://github.com/HrishikeshMRao/Electronics_Hardware_Projects/blob/main/PCB%20Designs/Altium%20Designer%20projects/Drive%20system%20E-box/Motherboard%20of%20the%20Rover/Mother%20board%20-4%20layers/Real%20motherboard.jpg" width="350" />
   <img src="https://github.com/HrishikeshMRao/Electronics_Hardware_Projects/blob/main/PCB%20Designs/Altium%20Designer%20projects/Drive%20system%20E-box/Motherboard%20of%20the%20Rover/Mother%20board%20-4%20layers/Bottom%20Layer.jpg" width="300" /> 
   <img src="https://github.com/HrishikeshMRao/Electronics_Hardware_Projects/blob/main/PCB%20Designs/Altium%20Designer%20projects/Drive%20system%20E-box/Motherboard%20of%20the%20Rover/Mother%20board%20-4%20layers/Internal%20layers.jpg" width="350" />
   <img src="https://github.com/HrishikeshMRao/Electronics_Hardware_Projects/blob/main/PCB%20Designs/Altium%20Designer%20projects/Drive%20system%20E-box/Motherboard%20of%20the%20Rover/Mother%20board%20-4%20layers/Top%20layer.jpg" width="300" />
 </p>
+Definitly the most complex design i ever designed. 4 layer high density board. took me 4 days straight for routing alone. It is the bus of the entire rover, connects different child boards doing their specific tasks together to create a fast communication network. It mounts on the Power distribution board and takes 12V and 5V as input. Houses 7 Cytron MD13s motordrivers each with fuse protection. Beast of a unit.
