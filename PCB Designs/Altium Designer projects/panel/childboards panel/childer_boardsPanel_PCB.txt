@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\Hrishikesh M Rao\Documents\altium projects\panel\childboards panel\child_boards panel\childer_boardsPanel_PCB.PcbDoc
+Date         : 5/11/2023
+Time         : 10:10:25 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 10065milsx4380mils
+    Components on board, 0
+count : 2

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "digikey-footprints")(type "KiCad")(uri "C:/Users/Hrishikesh M Rao/Documents/KiCad/KiCad 6.0/lib/digikey-kicad-library-master/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "website")(type "KiCad")(uri "C:/Users/Hrishikesh M Rao/Documents/KiCad/KiCad 6.0/lib/website")(options "")(descr ""))
+)

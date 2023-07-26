@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Hrishikesh M Rao\Documents\KiCad works\555 Timer\555 timer2\555 timer2.kicad_sch</source>
+    <date>7/9/2022 7:58:24 PM</date>
+    <tool>Eeschema (6.0.5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>555_badge</title>
+        <company/>
+        <rev>v01</rev>
+        <date>2022-07-02</date>
+        <source>555 timer2.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value="license cc by 4.0"/>
+        <comment number="9" value="author hrishikesh"/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BAT1">
+      <value>11</value>
+      <footprint>digikey-footprints:Battery_Holder_Coin_2032_BS-7</footprint>
+      <datasheet>http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf</datasheet>
+      <fields>
+        <field name="Category">Battery Products</field>
+        <field name="DK_Datasheet_Link">http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/mpd-memory-protection-devices/BC9VPC/BC9VPC-ND/257747</field>
+        <field name="Description">BATTERY HOLDER 9V PC PIN</field>
+        <field name="Digi-Key_PN">BC9VPC-ND</field>
+        <field name="Family">Battery Holders, Clips, Contacts</field>
+        <field name="MPN">BC9VPC</field>
+        <field name="Manufacturer">MPD (Memory Protection Devices)</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Battery-Holders-Clips-Contacts" part="BC9VPC" description="BATTERY HOLDER 9V PC PIN"/>
+      <property name="Digi-Key_PN" value="BC9VPC-ND"/>
+      <property name="MPN" value="BC9VPC"/>
+      <property name="Category" value="Battery Products"/>
+      <property name="Family" value="Battery Holders, Clips, Contacts"/>
+      <property name="DK_Datasheet_Link" value="http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/mpd-memory-protection-devices/BC9VPC/BC9VPC-ND/257747"/>
+      <property name="Description" value="BATTERY HOLDER 9V PC PIN"/>
+      <property name="Manufacturer" value="MPD (Memory Protection Devices)"/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="555 timer2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8befaaa-0fba-452d-b8cd-feac5dd499d7</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>10nf</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="555 timer2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc6e4863-0d9b-45d6-a17a-d501bc9732e6</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>RED</value>
+      <footprint>digikey-footprints:LED_3mm_Radial</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="555 timer2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6319d194-bd62-4936-b28a-f759fe6d9ad2</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N5400</value>
+      <footprint>Diode_THT:D_DO-201AD_P12.70mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88516/1n5400.pdf</datasheet>
+      <libsource lib="Diode" part="1N5400" description="50V 3A General Purpose Rectifier Diode, DO-201AD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="555 timer2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7ec4286-b4d6-4432-904c-adf9c12e02d7</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="555 timer2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77a8e191-b12f-4d64-af62-802a90d4f303</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="555 timer2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83010bf8-8362-40e1-8bd7-550ea0473318</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="555 timer2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b4e01ec-dff6-4d1d-bde4-7cc4c4b15200</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>470</value>
+      <footprint>Potentiometer_SMD:Potentiometer_ACP_CA9-VSMD_Vertical</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="555 timer2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>111cad99-0a27-4626-9aa2-ccbaacf2718a</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>7555</value>
+      <footprint>Library:ICM7555-PDIP</footprint>
+      <libsource lib="555timer_lib" part="7555" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="555 timer2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e758eb6d-26bc-4a76-b100-1277f4563541</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="555timer_lib" part="7555">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">7555</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="~TRIG" type="input"/>
+        <pin num="3" name="OUT" type="input"/>
+        <pin num="4" name="~RST" type="input"/>
+        <pin num="5" name="CV" type="input"/>
+        <pin num="6" name="THRESH" type="input"/>
+        <pin num="7" name="DIS" type="input"/>
+        <pin num="8" name="VDD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N5400">
+      <description>50V 3A General Purpose Rectifier Diode, DO-201AD</description>
+      <docs>http://www.vishay.com/docs/88516/1n5400.pdf</docs>
+      <footprints>
+        <fp>D*DO?201AD*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N5400</field>
+        <field name="Footprint">Diode_THT:D_DO-201AD_P15.24mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88516/1n5400.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dk_Battery-Holders-Clips-Contacts" part="BC9VPC">
+      <description>BATTERY HOLDER 9V PC PIN</description>
+      <docs>http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf</docs>
+      <fields>
+        <field name="Reference">BAT</field>
+        <field name="Value">BC9VPC</field>
+        <field name="Footprint">digikey-footprints:Battery_Holder_9V_BC9VPC-ND</field>
+        <field name="Datasheet">http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf</field>
+        <field name="Digi-Key_PN">BC9VPC-ND</field>
+        <field name="MPN">BC9VPC</field>
+        <field name="Category">Battery Products</field>
+        <field name="Family">Battery Holders, Clips, Contacts</field>
+        <field name="DK_Datasheet_Link">http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/mpd-memory-protection-devices/BC9VPC/BC9VPC-ND/257747</field>
+        <field name="Description">BATTERY HOLDER 9V PC PIN</field>
+        <field name="Manufacturer">MPD (Memory Protection Devices)</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="NEG" name="" type="power_in"/>
+        <pin num="POS" name="" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="555timer_lib">
+      <uri>C:\Users\Hrishikesh M Rao\Documents\KiCad works\555 Timer\555 timer2/555timer_lib.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Users\Hrishikesh M Rao\Documents\KiCad\KiCad 6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Users\Hrishikesh M Rao\Documents\KiCad\KiCad 6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="dk_Battery-Holders-Clips-Contacts">
+      <uri>C:\Users\Hrishikesh M Rao\Documents\KiCad\KiCad 6.0\share\kicad\symbols\/dk_Battery-Holders-Clips-Contacts.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="BAT1" pin="NEG" pintype="power_in"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="2" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="~TRIG" pintype="input"/>
+      <node ref="U1" pin="6" pinfunction="THRESH" pintype="input"/>
+    </net>
+    <net code="3" name="Net-(R1-Pad1)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="DIS" pintype="input"/>
+    </net>
+    <net code="4" name="Net-(R3-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(RV1-Pad2)">
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="CV" pintype="input"/>
+    </net>
+    <net code="6" name="Net-(U1-Pad3)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="OUT" pintype="input"/>
+    </net>
+    <net code="7" name="VCC">
+      <node ref="BAT1" pin="POS" pintype="power_in"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="~RST" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="VDD" pintype="input"/>
+    </net>
+  </nets>
+</export>

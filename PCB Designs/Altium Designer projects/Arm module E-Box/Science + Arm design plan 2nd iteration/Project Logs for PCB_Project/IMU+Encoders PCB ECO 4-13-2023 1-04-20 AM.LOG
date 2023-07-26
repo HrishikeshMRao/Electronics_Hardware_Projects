@@ -1,0 +1,59 @@
+Added Component: Designator=*(BNO)
+Added Component: Designator=P1(HDR1X9)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X9)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SHIELD_ARDUINO_NANO
+Added Pin To Net: NetName=Net*_10 Pin=*-10
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Add Pin To Net: Unknown Pin: Pin *-17
+Add Pin To Net: Unknown Pin: Pin *-18
+Add Pin To Net: Unknown Pin: Pin *-19
+Add Pin To Net: Unknown Pin: Pin *-20
+Added Pin To Net: NetName=Net*_19 Pin=P2-1
+Added Pin To Net: NetName=Net*_10 Pin=P2-2
+Added Pin To Net: NetName=Net*_18 Pin=P2-3
+Added Pin To Net: NetName=Net*_17 Pin=P2-4
+Add Pin To Net: Unknown Pin: Pin TB1-4
+Add Pin To Net: Unknown Pin: Pin TB1-17
+Add Pin To Net: Unknown Pin: Pin TB1-23
+Add Pin To Net: Unknown Pin: Pin TB1-24
+Add Pin To Net: Unknown Pin: Pin TB1-29
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Net: Name=NetP1_5
+Added Pin To Net: NetName=NetP1_6 Pin=P1-6
+Added Net: Name=NetP1_6
+Added Pin To Net: NetName=NetP1_7 Pin=P1-7
+Added Net: Name=NetP1_7
+Added Pin To Net: NetName=NetP1_8 Pin=P1-8
+Added Net: Name=NetP1_8
+Added Pin To Net: NetName=NetP1_9 Pin=P1-9
+Added Net: Name=NetP1_9
+Added Pin To Net: NetName=NetP2_5 Pin=P2-5
+Added Net: Name=NetP2_5
+Added Pin To Net: NetName=NetP2_6 Pin=P2-6
+Added Net: Name=NetP2_6
+Added Pin To Net: NetName=NetP2_7 Pin=P2-7
+Added Net: Name=NetP2_7
+Added Pin To Net: NetName=NetP2_8 Pin=P2-8
+Added Net: Name=NetP2_8
+Added Member To Class: ClassName=Sheet1 Member=Component * bno080
+Added Member To Class: ClassName=Sheet1 Member=Component * bno
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 9
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 9
+Add Class Member: Failed to add class member : Component TB1 ARDUINO_NANO
+Added Room: Name=Sheet1

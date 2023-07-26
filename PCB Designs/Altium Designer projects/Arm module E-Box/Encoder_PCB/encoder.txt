@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\Hrishikesh M Rao\Documents\altium projects\Science module E-box\main\PCB_Project\encoder.PcbDoc
+Date         : 4/13/2023
+Time         : 8:50:43 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 64.9023mmx51.5715mm
+    Components on board, 14
+count : 2

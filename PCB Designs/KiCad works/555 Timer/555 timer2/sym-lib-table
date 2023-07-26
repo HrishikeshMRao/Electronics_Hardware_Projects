@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name "555timer_lib")(type "KiCad")(uri "${KIPRJMOD}/555timer_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "7555")(type "KiCad")(uri "${KIPRJMOD}/gerburs/7555.kicad_sym")(options "")(descr ""))
+  (lib (name "bs-7-coin battery_battery1-symbol")(type "KiCad")(uri "${KIPRJMOD}/gerburs/bs-7-coin battery_battery1-symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "bc9vpc-battery2-9v-symbol")(type "KiCad")(uri "${KIPRJMOD}/gerburs/bc9vpc-battery2-9v-symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "c_polarized_us-symbol")(type "KiCad")(uri "${KIPRJMOD}/gerburs/c_polarized_us-symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "resistors-symbol")(type "KiCad")(uri "${KIPRJMOD}/gerburs/resistors-symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "r_potentiometer-symbol")(type "KiCad")(uri "${KIPRJMOD}/gerburs/r_potentiometer-symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "led-symbol")(type "KiCad")(uri "${KIPRJMOD}/gerburs/led-symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "1n5400 diode-symbol")(type "KiCad")(uri "${KIPRJMOD}/gerburs/1n5400 diode-symbol.kicad_sym")(options "")(descr ""))
+)

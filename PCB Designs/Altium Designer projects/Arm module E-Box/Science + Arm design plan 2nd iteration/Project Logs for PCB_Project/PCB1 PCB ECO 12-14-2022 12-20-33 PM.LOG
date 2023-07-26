@@ -1,0 +1,13 @@
+Add Component: Footprint Not Found TE_282834-3
+Add Pin To Net: Unknown Pin: Pin J?-3
+Add Net: Net with name "Net*_1" already exists
+Added Pin To Net: NetName=NetJ?_1 Pin=P16-1
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=P16-2
+Added Net: Name=NetJ?_2
+Added Member To Class: ClassName=Sheet2 Member=Component * micro_buck
+Added Member To Class: ClassName=Sheet2 Member=Component * cytron_md_horizontal_p
+Added Member To Class: ClassName=Sheet2 Member=Component * cytron_md_horizontal_p
+Add Class Member: Failed to add class member : Component J? 282834-3
+Added Member To Class: ClassName=Sheet2 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet2 Member=Component J 110990030

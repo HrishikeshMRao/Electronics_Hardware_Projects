@@ -1,0 +1,46 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Added Component: Designator=U1(MODULE_ESP32-DEVKITC-32D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC-32D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP5_1 Pin=U1-5
+Added Pin To Net: NetName=NetP6_1 Pin=U1-6
+Added Pin To Net: NetName=NetP4_1 Pin=U1-7
+Added Pin To Net: NetName=NetP3_1 Pin=U1-8
+Added Pin To Net: NetName=Net*_8 Pin=U1-9
+Added Pin To Net: NetName=NetJ_2 Pin=U1-11
+Added Pin To Net: NetName=NetP8_1 Pin=U1-12
+Added Pin To Net: NetName=NetJ_1 Pin=U1-13
+Added Pin To Net: NetName=NetF3_2 Pin=U1-19
+Added Pin To Net: NetName=NetP2_1 Pin=U1-21
+Added Pin To Net: NetName=Net*_14 Pin=U1-22
+Added Pin To Net: NetName=Net*_11 Pin=U1-25
+Added Pin To Net: NetName=NetP1_1 Pin=U1-27
+Added Pin To Net: NetName=NetP9_1 Pin=U1-29
+Added Pin To Net: NetName=NetP7_1 Pin=U1-35
+Added Pin To Net: NetName=Net*_2 Pin=U1-36
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_7" already exists
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=U1-33
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=U1-34
+Added Net: Name=NetJ4_2
+Add Net: Net with name "NetJ_1" already exists
+Add Net: Net with name "NetJ_1" already exists
+Add Net: Net with name "NetJ_2" already exists
+Add Net: Net with name "NetJ_2" already exists
+Added Member To Class: ClassName=Sheet4 Member=Component * lan2uart
+Added Member To Class: ClassName=Sheet4 Member=Component * bno
+Added Member To Class: ClassName=Sheet4 Member=Component * microbuck
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component U1 ESP32-DEVKITC-32D
+Added Room: Name=Sheet4

@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\Hrishikesh M Rao\Documents\altium projects\Science module E-box\main\PCB_Project\PCB1.PcbDoc
+Date         : 3/15/2023
+Time         : 12:47:06 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 226.441mmx159.766mm
+    Components on board, 136
+count : 2

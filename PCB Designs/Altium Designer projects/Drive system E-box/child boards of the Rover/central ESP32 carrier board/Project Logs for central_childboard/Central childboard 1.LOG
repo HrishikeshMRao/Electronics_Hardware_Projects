@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=Net3_33 Pin=D7-2
+Removed Pin From Net: NetName=Net3_33 Pin=R7-2
+Removed Pin From Net: NetName=Net3_34 Pin=U1-5
+Removed Pin From Net: NetName=Net3_35 Pin=U1-6
+Removed Pin From Net: NetName=Net3_25 Pin=U1-9
+Removed Pin From Net: NetName=Net3_26 Pin=U1-10
+Removed Pin From Net: NetName=Net3_39 Pin=U1-15
+Removed Pin From Net: NetName=Net3_40 Pin=U1-17
+Removed Pin From Net: NetName=Net3_21 Pin=U1-25
+Removed Pin From Net: NetName=Net3_36 Pin=U1-36
+Removed Pin From Net: NetName=Net3_37 Pin=U1-37
+Removed Pin From Net: NetName=Net3_38 Pin=U1-38
+Added Pin To Net: NetName=Net3_34 Pin=D7-2
+Added Pin To Net: NetName=Net3_34 Pin=R7-2
+Added Pin To Net: NetName=Net3_33 Pin=U1-5
+Added Pin To Net: NetName=Net3_36 Pin=U1-6
+Added Pin To Net: NetName=Net3_26 Pin=U1-9
+Added Pin To Net: NetName=Net3_25 Pin=U1-10
+Added Pin To Net: NetName=Net3_40 Pin=U1-15
+Added Pin To Net: NetName=Net3_39 Pin=U1-17
+Added Pin To Net: NetName=Net3_21 Pin=U1-22
+Added Pin To Net: NetName=Net3_35 Pin=U1-36
+Added Pin To Net: NetName=Net3_38 Pin=U1-37
+Added Pin To Net: NetName=Net3_37 Pin=U1-38
+Added Pin To Net: NetName=Net3_24 Pin=3-24
+Added Pin To Net: NetName=Net3_24 Pin=D4-2
+Added Pin To Net: NetName=Net3_24 Pin=R4-2
+Added Net: Name=Net3_24
+Added Pin To Net: NetName=Net3_28 Pin=3-28
+Added Pin To Net: NetName=Net3_28 Pin=D3-2
+Added Pin To Net: NetName=Net3_28 Pin=R3-2
+Added Net: Name=Net3_28
+Added Pin To Net: NetName=Net3_29 Pin=3-29
+Added Pin To Net: NetName=Net3_29 Pin=U1-1
+Added Net: Name=Net3_29
+Added Pin To Net: NetName=Net3_31 Pin=3-31
+Added Pin To Net: NetName=Net3_31 Pin=D10-2
+Added Pin To Net: NetName=Net3_31 Pin=R10-2
+Added Net: Name=Net3_31
+Added Pin To Net: NetName=NetU1_25 Pin=U1-25
+Added Net: Name=NetU1_25
+Added Room: Name=Sheet2

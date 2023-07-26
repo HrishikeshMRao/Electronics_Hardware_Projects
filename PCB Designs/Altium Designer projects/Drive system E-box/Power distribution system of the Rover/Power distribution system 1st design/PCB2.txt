@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\Hrishikesh M Rao\Documents\altium projects\Drive system E-box\power dis fake\pds\PCB2.PcbDoc
+Date         : 2/17/2023
+Time         : 5:08:23 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 226.2967mmx159.6527mm
+    Components on board, 35
+count : 2

@@ -1,0 +1,80 @@
+Added Component: Designator=J2(AMASS_XT60-M)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(AMASS_XT60-M)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(AMASS_XT60-M)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(AMASS_XT60-M)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(AMASS_XT60-M)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=100A Pin=J2-N
+Added Pin To Net: NetName=20A Pin=J2-P
+Added Pin To Net: NetName=100A Pin=J3-N
+Added Pin To Net: NetName=10A Pin=J3-P
+Added Pin To Net: NetName=NetJ5_N Pin=J5-N
+Added Pin To Net: NetName=NetJ5_P Pin=J5-P
+Added Pin To Net: NetName=NetJ6_N Pin=J6-N
+Added Pin To Net: NetName=NetJ6_P Pin=J6-P
+Added Pin To Net: NetName=NetJ7_N Pin=J7-N
+Added Pin To Net: NetName=NetJ7_P Pin=J7-P
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_7" already exists
+Add Net: Net with name "NetJ_1" already exists
+Add Net: Net with name "NetJ_1" already exists
+Add Net: Net with name "NetJ_2" already exists
+Add Net: Net with name "NetJ_2" already exists
+Added Member To Class: ClassName=Sheet4 Member=Component * bno
+Added Member To Class: ClassName=Sheet4 Member=Component * microbuck
+Added Member To Class: ClassName=Sheet4 Member=Component * lan2uart
+Added Member To Class: ClassName=Sheet4 Member=Component J2 XT60-M
+Added Member To Class: ClassName=Sheet4 Member=Component J3 XT60-M
+Added Member To Class: ClassName=Sheet4 Member=Component J5 XT60-M
+Added Member To Class: ClassName=Sheet4 Member=Component J6 XT60-M
+Added Member To Class: ClassName=Sheet4 Member=Component J7 XT60-M
+Added Member To Class: ClassName=Sheet4 Member=Component J? XT30PB
+Added Member To Class: ClassName=Sheet4 Member=Component J? XT30PB
+Added Member To Class: ClassName=Sheet4 Member=Component J? XT30PB
+Added Member To Class: ClassName=Sheet4 Member=Component J? XT30PB
+Added Member To Class: ClassName=Sheet4 Member=Component J? XT30PB
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Room: Name=Sheet4

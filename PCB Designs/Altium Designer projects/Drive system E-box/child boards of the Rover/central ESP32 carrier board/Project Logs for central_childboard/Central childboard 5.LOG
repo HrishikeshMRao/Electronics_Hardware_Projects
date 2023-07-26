@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=Net3_5 Pin=3-5
+Added Pin To Net: NetName=Net3_5 Pin=U1-29
+Added Net: Name=Net3_5
+Added Member To Class: ClassName=Sheet2 Member=Component 1 2.54 switch  dip
+Added Room: Name=Sheet2

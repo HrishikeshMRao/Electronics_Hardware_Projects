@@ -1,0 +1,153 @@
+Info: Processing symbol 'BAT1:digikey-footprints:Battery_Holder_Coin_2032_BS-7'.
+Info: Processing symbol 'C2:Capacitor_THT:CP_Radial_D6.3mm_P2.50mm'.
+Info: Processing symbol 'Q1:digikey-footprints:TO-92-3'.
+Info: Processing symbol 'D2:digikey-footprints:LED_3mm_Radial'.
+Info: Processing symbol 'D1:digikey-footprints:LED_3mm_Radial'.
+Info: Processing symbol 'D3:Diode_THT:D_DO-201AD_P15.24mm_Horizontal'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'C1:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'RV1:Potentiometer_SMD:Potentiometer_ACP_CA9-VSMD_Vertical'.
+Info: Processing symbol 'U1:Library:ICM7555-PDIP'.
+Added C1 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Changed REF** reference designator to C1.
+Changed C1 value from CP_Radial_D5.0mm_P2.00mm to 10nf.
+Updated C1 symbol association from  to /cc6e4863-0d9b-45d6-a17a-d501bc9732e6.
+Updated C1 properties.
+Add net Net-(C1-Pad1).
+Connected C1 pin 1 to Net-(C1-Pad1).
+Add net GND.
+Connected C1 pin 2 to GND.
+Added C2 (footprint 'Capacitor_THT:CP_Radial_D6.3mm_P2.50mm').
+Changed REF** reference designator to C2.
+Changed C2 value from CP_Radial_D6.3mm_P2.50mm to 100uf.
+Updated C2 symbol association from  to /6c3aa80c-113a-4852-9f95-a5bebf9be75e.
+Updated C2 properties.
+Add net Net-(C2-Pad1).
+Connected C2 pin 1 to Net-(C2-Pad1).
+Connected C2 pin 2 to GND.
+Added D1 (footprint 'digikey-footprints:LED_3mm_Radial').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_3mm_Radial to RED.
+Updated D1 symbol association from  to /6319d194-bd62-4936-b28a-f759fe6d9ad2.
+Updated D1 properties.
+Add net Net-(D1-Pad2).
+Connected D1 pin 2 to Net-(D1-Pad2).
+Add net Net-(D1-Pad1).
+Connected D1 pin 1 to Net-(D1-Pad1).
+Added D2 (footprint 'digikey-footprints:LED_3mm_Radial').
+Changed REF** reference designator to D2.
+Changed D2 value from LED_3mm_Radial to RED.
+Updated D2 symbol association from  to /5ade20c9-34e0-40a1-8f99-1a7489c2331b.
+Updated D2 properties.
+Add net Net-(D2-Pad2).
+Connected D2 pin 2 to Net-(D2-Pad2).
+Connected D2 pin 1 to Net-(D1-Pad1).
+Added D3 (footprint 'Diode_THT:D_DO-201AD_P15.24mm_Horizontal').
+Changed REF** reference designator to D3.
+Changed D3 value from D_DO-201AD_P15.24mm_Horizontal to 1N5400.
+Updated D3 symbol association from  to /a7ec4286-b4d6-4432-904c-adf9c12e02d7.
+Updated D3 properties.
+Connected D3 pin 1 to Net-(C1-Pad1).
+Add net Net-(R1-Pad1).
+Connected D3 pin 2 to Net-(R1-Pad1).
+Added Q1 (footprint 'digikey-footprints:TO-92-3').
+Changed REF** reference designator to Q1.
+Changed Q1 value from TO-92-3 to 2N3904.
+Updated Q1 symbol association from  to /d5ea8fd4-90a3-452c-9419-331f395543c9.
+Updated Q1 properties.
+Add net Net-(Q1-Pad2).
+Connected Q1 pin 2 to Net-(Q1-Pad2).
+Connected Q1 pin 3 to Net-(D1-Pad1).
+Connected Q1 pin 1 to GND.
+Added R1 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R1.
+Changed R1 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 470.
+Updated R1 symbol association from  to /77a8e191-b12f-4d64-af62-802a90d4f303.
+Updated R1 properties.
+Connected R1 pin 1 to Net-(R1-Pad1).
+Add net VCC.
+Connected R1 pin 2 to VCC.
+Added R2 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R2.
+Changed R2 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 470.
+Updated R2 symbol association from  to /83010bf8-8362-40e1-8bd7-550ea0473318.
+Updated R2 properties.
+Connected R2 pin 1 to Net-(C1-Pad1).
+Connected R2 pin 2 to Net-(R1-Pad1).
+Added R3 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 22k.
+Updated R3 symbol association from  to /0b4e01ec-dff6-4d1d-bde4-7cc4c4b15200.
+Updated R3 properties.
+Add net Net-(R3-Pad1).
+Connected R3 pin 1 to Net-(R3-Pad1).
+Connected R3 pin 2 to Net-(C2-Pad1).
+Added R4 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R4.
+Changed R4 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 100k.
+Updated R4 symbol association from  to /fe601aee-4ed7-4157-8f20-4b55c3c2562a.
+Updated R4 properties.
+Connected R4 pin 1 to Net-(C2-Pad1).
+Connected R4 pin 2 to GND.
+Added BAT1 (footprint 'digikey-footprints:Battery_Holder_Coin_2032_BS-7').
+Added R5 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R5.
+Changed R5 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 10k.
+Updated R5 symbol association from  to /6773b670-1c00-4d9f-bf91-1618a6f53c13.
+Updated R5 properties.
+Connected R5 pin 1 to Net-(C2-Pad1).
+Connected R5 pin 2 to Net-(Q1-Pad2).
+Changed REF** reference designator to BAT1.
+Added R6 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R6.
+Changed R6 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 100.
+Updated R6 symbol association from  to /662ec5b6-df92-4753-9656-be926ce0a61c.
+Updated R6 properties.
+Connected R6 pin 1 to VCC.
+Connected R6 pin 2 to Net-(D1-Pad2).
+Changed BAT1 value from BS-7 to BC9VPC.
+Added R7 (footprint 'Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder').
+Changed REF** reference designator to R7.
+Changed R7 value from R_0603_1608Metric_Pad0.98x0.95mm_HandSolder to 100.
+Updated R7 symbol association from  to /e2b0385b-9608-4d01-aef2-49033e214965.
+Updated R7 properties.
+Connected R7 pin 1 to VCC.
+Connected R7 pin 2 to Net-(D2-Pad2).
+Updated BAT1 symbol association from  to /d8befaaa-0fba-452d-b8cd-feac5dd499d7.
+Added RV1 (footprint 'Potentiometer_SMD:Potentiometer_ACP_CA9-VSMD_Vertical').
+Changed REF** reference designator to RV1.
+Changed RV1 value from Potentiometer_ACP_CA9-VSMD_Vertical to 470.
+Updated RV1 symbol association from  to /111cad99-0a27-4626-9aa2-ccbaacf2718a.
+Updated RV1 properties.
+Connected RV1 pin 1 to VCC.
+Add net Net-(RV1-Pad2).
+Connected RV1 pin 2 to Net-(RV1-Pad2).
+Connected RV1 pin 3 to GND.
+Updated BAT1 properties.
+Added U1 (footprint 'Library:ICM7555-PDIP').
+Changed REF** reference designator to U1.
+Changed U1 value from ICM7555-PDIP to 7555.
+Updated U1 symbol association from  to /e758eb6d-26bc-4a76-b100-1277f4563541.
+Updated U1 properties.
+Connected U1 pin 1 to GND.
+Connected U1 pin 2 to Net-(C1-Pad1).
+Connected U1 pin 3 to Net-(R3-Pad1).
+Add net Net-(U1-Pad4).
+Connected U1 pin 4 to Net-(U1-Pad4).
+Connected U1 pin 5 to Net-(RV1-Pad2).
+Connected U1 pin 6 to Net-(C1-Pad1).
+Connected U1 pin 7 to Net-(R1-Pad1).
+Connected U1 pin 8 to Net-(U1-Pad4).
+Warning: No net found for symbol BAT1 pin Pos.
+Warning: No net found for symbol BAT1 pin Neg.
+Error: BAT1 pad NEG not found in digikey-footprints:Battery_Holder_Coin_2032_BS-7.
+Error: BAT1 pad POS not found in digikey-footprints:Battery_Holder_Coin_2032_BS-7.
+
+
+Info: Total warnings: 0, errors: 2.

@@ -1,0 +1,20 @@
+Added Component: Designator=*(gps)
+Added Pin To Net: NetName=Net*_6 Pin=*-39
+Added Pin To Net: NetName=Net*_8 Pin=*-41
+Added Pin To Net: NetName=100A Pin=*-42
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_7" already exists
+Add Net: Net with name "NetJ_1" already exists
+Add Net: Net with name "NetJ_1" already exists
+Add Net: Net with name "NetJ_2" already exists
+Add Net: Net with name "NetJ_2" already exists
+Added Member To Class: ClassName=Sheet4 Member=Component * bno
+Added Member To Class: ClassName=Sheet4 Member=Component * lan2uart
+Added Member To Class: ClassName=Sheet4 Member=Component * microbuck
+Added Member To Class: ClassName=Sheet4 Member=Component * gps
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Room: Name=Sheet4

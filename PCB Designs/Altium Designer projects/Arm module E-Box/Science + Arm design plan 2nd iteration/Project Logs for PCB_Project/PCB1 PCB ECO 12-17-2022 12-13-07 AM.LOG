@@ -1,0 +1,161 @@
+Removed Pin From Net: NetName=GND Pin=CAN1-1
+Removed Pin From Net: NetName=NetU1_27 Pin=D5-1
+Removed Pin From Net: NetName=NetP9_1 Pin=U2-11
+Removed Pin From Net: NetName=NetP9_2 Pin=U2-12
+Change Component Designator: OldDesignator=*1 NewDesignator=*
+Change Component Designator: OldDesignator=1 NewDesignator=2
+Change Component Designator: OldDesignator=2 NewDesignator=3
+Change Component Designator: OldDesignator=3 NewDesignator=1
+Change Component Designator: OldDesignator=D1 NewDesignator=D28
+Change Component Designator: OldDesignator=D2 NewDesignator=D11
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D4 NewDesignator=D29
+Change Component Designator: OldDesignator=D5 NewDesignator=D30
+Change Component Designator: OldDesignator=D6 NewDesignator=D4
+Change Component Designator: OldDesignator=D7 NewDesignator=D13
+Change Component Designator: OldDesignator=D8 NewDesignator=D20
+Change Component Designator: OldDesignator=D9 NewDesignator=D31
+Change Component Designator: OldDesignator=D10 NewDesignator=D1
+Change Component Designator: OldDesignator=D11 NewDesignator=D14
+Change Component Designator: OldDesignator=D12 NewDesignator=D39
+Change Component Designator: OldDesignator=D13 NewDesignator=D32
+Change Component Designator: OldDesignator=D14 NewDesignator=D15
+Change Component Designator: OldDesignator=D15 NewDesignator=D8
+Change Component Designator: OldDesignator=D16 NewDesignator=D33
+Change Component Designator: OldDesignator=D17 NewDesignator=D16
+Change Component Designator: OldDesignator=D18 NewDesignator=D7
+Change Component Designator: OldDesignator=D19 NewDesignator=D17
+Change Component Designator: OldDesignator=D20 NewDesignator=D34
+Change Component Designator: OldDesignator=D21 NewDesignator=D19
+Change Component Designator: OldDesignator=D22 NewDesignator=D6
+Change Component Designator: OldDesignator=D23 NewDesignator=D18
+Change Component Designator: OldDesignator=D24 NewDesignator=D21
+Change Component Designator: OldDesignator=D25 NewDesignator=D24
+Change Component Designator: OldDesignator=D26 NewDesignator=D23
+Change Component Designator: OldDesignator=D27 NewDesignator=D35
+Change Component Designator: OldDesignator=D28 NewDesignator=D22
+Change Component Designator: OldDesignator=D29 NewDesignator=D3
+Change Component Designator: OldDesignator=D30 NewDesignator=D36
+Change Component Designator: OldDesignator=D31 NewDesignator=D5
+Change Component Designator: OldDesignator=D32 NewDesignator=D25
+Change Component Designator: OldDesignator=D33 NewDesignator=D37
+Change Component Designator: OldDesignator=D34 NewDesignator=D9
+Change Component Designator: OldDesignator=D35 NewDesignator=D26
+Change Component Designator: OldDesignator=D36 NewDesignator=D38
+Change Component Designator: OldDesignator=D37 NewDesignator=D12
+Change Component Designator: OldDesignator=D38 NewDesignator=D27
+Change Component Designator: OldDesignator=D39 NewDesignator=D10
+Change Component Designator: OldDesignator=F1 NewDesignator=F2
+Change Component Designator: OldDesignator=F2 NewDesignator=F1
+Change Component Designator: OldDesignator=J2 NewDesignator=J
+Change Component Designator: OldDesignator=J3 NewDesignator=J?
+Change Component Designator: OldDesignator=J4 NewDesignator=J
+Change Component Designator: OldDesignator=J5 NewDesignator=J
+Change Component Designator: OldDesignator=P1 NewDesignator=P11
+Change Component Designator: OldDesignator=P2 NewDesignator=P13
+Change Component Designator: OldDesignator=P3 NewDesignator=P9
+Change Component Designator: OldDesignator=P4 NewDesignator=P1
+Change Component Designator: OldDesignator=P5 NewDesignator=P2
+Change Component Designator: OldDesignator=P6 NewDesignator=P18
+Change Component Designator: OldDesignator=P7 NewDesignator=P3
+Change Component Designator: OldDesignator=P8 NewDesignator=P4
+Change Component Designator: OldDesignator=P9 NewDesignator=P5
+Change Component Designator: OldDesignator=P10 NewDesignator=P6
+Change Component Designator: OldDesignator=P11 NewDesignator=P7
+Change Component Designator: OldDesignator=P12 NewDesignator=P15
+Change Component Designator: OldDesignator=P13 NewDesignator=P8
+Change Component Designator: OldDesignator=P14 NewDesignator=P16
+Change Component Designator: OldDesignator=P15 NewDesignator=P10
+Change Component Designator: OldDesignator=P16 NewDesignator=P12
+Change Component Designator: OldDesignator=P18 NewDesignator=P14
+Change Component Designator: OldDesignator=R1 NewDesignator=R12
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R25
+Change Component Designator: OldDesignator=R4 NewDesignator=R13
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R14
+Change Component Designator: OldDesignator=R7 NewDesignator=R26
+Change Component Designator: OldDesignator=R8 NewDesignator=R2
+Change Component Designator: OldDesignator=R9 NewDesignator=R15
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R17
+Change Component Designator: OldDesignator=R12 NewDesignator=R16
+Change Component Designator: OldDesignator=R13 NewDesignator=R7
+Change Component Designator: OldDesignator=R14 NewDesignator=R18
+Change Component Designator: OldDesignator=R15 NewDesignator=R10
+Change Component Designator: OldDesignator=R16 NewDesignator=R28
+Change Component Designator: OldDesignator=R17 NewDesignator=R27
+Change Component Designator: OldDesignator=R18 NewDesignator=R24
+Change Component Designator: OldDesignator=R19 NewDesignator=R23
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R21 NewDesignator=R5
+Change Component Designator: OldDesignator=R22 NewDesignator=R20
+Change Component Designator: OldDesignator=R23 NewDesignator=R6
+Change Component Designator: OldDesignator=R24 NewDesignator=R21
+Change Component Designator: OldDesignator=R25 NewDesignator=R8
+Change Component Designator: OldDesignator=R26 NewDesignator=R22
+Change Component Designator: OldDesignator=R27 NewDesignator=R11
+Change Component Designator: OldDesignator=R28 NewDesignator=R1
+Add Component: Footprint Not Found TE_282834-3
+Add Pin To Net: Unknown Pin: Pin J3-3
+Added Pin To Net: NetName=NetP9_2 Pin=U2-11
+Added Pin To Net: NetName=NetP9_1 Pin=U2-12
+Added Pin To Net: NetName=can_N Pin=P16-2
+Added Net: Name=can_N
+Added Pin To Net: NetName=can_P Pin=P16-1
+Added Net: Name=can_P
+Added Differential Pair: Name=can
+Added Member To Class: ClassName=Sheet2 Member=Component 3 cytron_md_horizontal_p
+Added Member To Class: ClassName=Sheet2 Member=Component D3 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D4 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D6 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D7 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D14 D Schottky
+Added Member To Class: ClassName=Sheet2 Member=Component D15 D Schottky
+Added Member To Class: ClassName=Sheet2 Member=Component D17 D Schottky
+Added Member To Class: ClassName=Sheet2 Member=Component D19 D Schottky
+Added Member To Class: ClassName=Sheet2 Member=Component D21 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D22 D Schottky
+Added Member To Class: ClassName=Sheet2 Member=Component D23 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D25 D Schottky
+Added Member To Class: ClassName=Sheet2 Member=Component D28 Diode 1N914
+Added Member To Class: ClassName=Sheet2 Member=Component D29 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D31 Diode 1N914
+Added Member To Class: ClassName=Sheet2 Member=Component D32 Diode 1N914
+Added Member To Class: ClassName=Sheet2 Member=Component D34 Diode 1N914
+Added Member To Class: ClassName=Sheet2 Member=Component D35 Diode 1N914
+Added Member To Class: ClassName=Sheet2 Member=Component D37 Diode 1N914
+Added Member To Class: ClassName=Sheet2 Member=Component D38 Diode 1N914
+Added Member To Class: ClassName=Sheet2 Member=Component D39 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component F2 4527
+Added Member To Class: ClassName=Sheet2 Member=Component J? XT60-M
+Added Member To Class: ClassName=Sheet2 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet2 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet2 Member=Component P3 282837-2
+Added Member To Class: ClassName=Sheet2 Member=Component P4 282837-2
+Added Member To Class: ClassName=Sheet2 Member=Component P8 282837-2
+Added Member To Class: ClassName=Sheet2 Member=Component P9 Header 4
+Added Member To Class: ClassName=Sheet2 Member=Component P11 282837-2
+Added Member To Class: ClassName=Sheet2 Member=Component P12 282837-2
+Added Member To Class: ClassName=Sheet2 Member=Component P13 282837-2
+Added Member To Class: ClassName=Sheet2 Member=Component P15 Header 4H
+Added Member To Class: ClassName=Sheet2 Member=Component P16 Header 2H
+Added Member To Class: ClassName=Sheet2 Member=Component P18 282837-2
+Added Member To Class: ClassName=Sheet2 Member=Component R2 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R3 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R5 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R9 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R15 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R16 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R17 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R18 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R19 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R20 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R21 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R23 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R24 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R25 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R26 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R27 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R28 Res3
+Added Room: Name=Sheet2

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=Net*_3 Pin=F1-1
+Add Pin To Net: Unknown Pin: Pin *-10
+Add Pin To Net: Unknown Pin: Pin *-11
+Add Pin To Net: Unknown Pin: Pin *-12
+Added Pin To Net: NetName=10A Pin=F1-1
+Added Pin To Net: NetName=Net*_12 Pin=F1-2
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_7" already exists
+Add Net: Net with name "NetJ_1" already exists
+Add Net: Net with name "NetJ_1" already exists
+Add Net: Net with name "NetJ_2" already exists
+Add Net: Net with name "NetJ_2" already exists
+Added Member To Class: ClassName=Sheet4 Member=Component * lan2uart
+Added Member To Class: ClassName=Sheet4 Member=Component * microbuck
+Added Member To Class: ClassName=Sheet4 Member=Component * bno
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Room: Name=Sheet4

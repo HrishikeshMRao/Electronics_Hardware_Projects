@@ -1,0 +1,18 @@
+Added Component: Designator=F1(FUSE_4527)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4527"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Net: Net with name "Net*_1" already exists
+Add Net: Net with name "Net*_1" already exists
+Add Net: Net with name "Net*_2" already exists
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_6" already exists
+Add Net: Net with name "Net*_7" already exists
+Added Member To Class: ClassName=Sheet2 Member=Component * microbuck
+Added Member To Class: ClassName=Sheet2 Member=Component * breakoutboard
+Added Member To Class: ClassName=Sheet2 Member=Component F1 4527
+Added Room: Name=Sheet2

@@ -1,0 +1,31 @@
+Change Component Footprint: Designator=P? Old Footprint=MHDR2X20 New Footprint=HDR2X20
+Change Component Comment : Designator=P? Old Comment=MHDR2X20 New Comment=Header 20X2
+Add Net: Net with name "Net*_3" already exists
+Add Net: Net with name "Net*_7" already exists
+Add Net: Net with name "NetJ?_1" already exists
+Add Net: Net with name "NetJ?_1" already exists
+Add Net: Net with name "NetJ?_2" already exists
+Add Net: Net with name "NetJ?_2" already exists
+Add Net: Net with name "NetJ_1" already exists
+Add Net: Net with name "NetJ_1" already exists
+Add Net: Net with name "NetJ_2" already exists
+Add Net: Net with name "NetJ_2" already exists
+Added Member To Class: ClassName=Sheet4 Member=Component * bno
+Added Member To Class: ClassName=Sheet4 Member=Component * microbuck
+Added Member To Class: ClassName=Sheet4 Member=Component * lan2uart
+Added Member To Class: ClassName=Sheet4 Member=Component J? XT30PB
+Added Member To Class: ClassName=Sheet4 Member=Component J? XT30PB
+Added Member To Class: ClassName=Sheet4 Member=Component J? XT30PB
+Added Member To Class: ClassName=Sheet4 Member=Component J? XT30PB
+Added Member To Class: ClassName=Sheet4 Member=Component J? XT30PB
+Added Member To Class: ClassName=Sheet4 Member=Component J? XT60-M
+Added Member To Class: ClassName=Sheet4 Member=Component J? XT60-M
+Added Member To Class: ClassName=Sheet4 Member=Component J? XT30PB
+Added Member To Class: ClassName=Sheet4 Member=Component J? XT60-M
+Added Member To Class: ClassName=Sheet4 Member=Component J? XT60-M
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet4 Member=Component J 110990030
+Added Room: Name=Sheet4

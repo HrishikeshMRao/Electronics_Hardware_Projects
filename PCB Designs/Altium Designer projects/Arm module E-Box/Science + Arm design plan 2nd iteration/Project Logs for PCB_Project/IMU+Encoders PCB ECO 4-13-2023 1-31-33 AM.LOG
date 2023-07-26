@@ -1,0 +1,8 @@
+Added Component: Designator=*(bno080)
+Added Pin To Net: NetName=Net*_17 Pin=*-17
+Added Pin To Net: NetName=Net*_18 Pin=*-18
+Added Pin To Net: NetName=Net*_19 Pin=*-19
+Added Pin To Net: NetName=Net*_10 Pin=*-20
+Added Member To Class: ClassName=Sheet1 Member=Component * bno
+Added Member To Class: ClassName=Sheet1 Member=Component * bno080
+Added Room: Name=Sheet1

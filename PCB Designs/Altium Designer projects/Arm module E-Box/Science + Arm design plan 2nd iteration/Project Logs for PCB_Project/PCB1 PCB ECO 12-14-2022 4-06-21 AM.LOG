@@ -1,0 +1,83 @@
+Added Component: Designator=F?(FUSE_4527)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4527"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TE_282834-3
+Add Component: Footprint Not Found SW_1825910-6-4
+Add Component: Footprint Not Found SW_1825910-6-4
+Add Component: Footprint Not Found SW_1825910-6-4
+Add Component: Footprint Not Found SW_1825910-6-4
+Add Component: Footprint Not Found SW_1825910-6-4
+Add Component: Footprint Not Found SW_1825910-6-4
+Add Component: Footprint Not Found SW_1825910-6-4
+Add Component: Footprint Not Found SW_1825910-6-4
+Add Component: Footprint Not Found SW_1825910-6-4
+Add Component: Footprint Not Found SW_1825910-6-4
+Added Pin To Net: NetName=NetD16_2 Pin=F?-1
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin SW1-1
+Add Pin To Net: Unknown Pin: Pin SW1-2
+Add Pin To Net: Unknown Pin: Pin SW1-3
+Add Pin To Net: Unknown Pin: Pin SW1-4
+Add Pin To Net: Unknown Pin: Pin SW2-1
+Add Pin To Net: Unknown Pin: Pin SW2-2
+Add Pin To Net: Unknown Pin: Pin SW2-3
+Add Pin To Net: Unknown Pin: Pin SW2-4
+Add Pin To Net: Unknown Pin: Pin SW3-1
+Add Pin To Net: Unknown Pin: Pin SW3-2
+Add Pin To Net: Unknown Pin: Pin SW3-3
+Add Pin To Net: Unknown Pin: Pin SW3-4
+Add Pin To Net: Unknown Pin: Pin SW4-1
+Add Pin To Net: Unknown Pin: Pin SW4-2
+Add Pin To Net: Unknown Pin: Pin SW4-3
+Add Pin To Net: Unknown Pin: Pin SW4-4
+Add Pin To Net: Unknown Pin: Pin SW5-1
+Add Pin To Net: Unknown Pin: Pin SW5-2
+Add Pin To Net: Unknown Pin: Pin SW5-3
+Add Pin To Net: Unknown Pin: Pin SW5-4
+Add Pin To Net: Unknown Pin: Pin SW6-1
+Add Pin To Net: Unknown Pin: Pin SW6-2
+Add Pin To Net: Unknown Pin: Pin SW6-3
+Add Pin To Net: Unknown Pin: Pin SW6-4
+Add Pin To Net: Unknown Pin: Pin SW7-1
+Add Pin To Net: Unknown Pin: Pin SW7-2
+Add Pin To Net: Unknown Pin: Pin SW7-3
+Add Pin To Net: Unknown Pin: Pin SW7-4
+Add Pin To Net: Unknown Pin: Pin SW8-1
+Add Pin To Net: Unknown Pin: Pin SW8-2
+Add Pin To Net: Unknown Pin: Pin SW8-3
+Add Pin To Net: Unknown Pin: Pin SW8-4
+Add Pin To Net: Unknown Pin: Pin SW9-1
+Add Pin To Net: Unknown Pin: Pin SW9-2
+Add Pin To Net: Unknown Pin: Pin SW9-3
+Add Pin To Net: Unknown Pin: Pin SW9-4
+Add Pin To Net: Unknown Pin: Pin SW10-1
+Add Pin To Net: Unknown Pin: Pin SW10-2
+Add Pin To Net: Unknown Pin: Pin SW10-3
+Add Pin To Net: Unknown Pin: Pin SW10-4
+Add Net: Net with name "Net*_1" already exists
+Added Pin To Net: NetName=NetF?_2 Pin=F?-2
+Added Pin To Net: NetName=NetF?_2 Pin=U1-19
+Added Net: Name=NetF?_2
+Added Member To Class: ClassName=Sheet2 Member=Component * cytron_md_horizontal_p
+Added Member To Class: ClassName=Sheet2 Member=Component * micro_buck
+Added Member To Class: ClassName=Sheet2 Member=Component * cytron_md_horizontal_p
+Added Member To Class: ClassName=Sheet2 Member=Component F? 4527
+Add Class Member: Failed to add class member : Component J3 282834-3
+Added Member To Class: ClassName=Sheet2 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet2 Member=Component J 110990030
+Add Class Member: Failed to add class member : Component SW1 1825910-6
+Add Class Member: Failed to add class member : Component SW2 1825910-6
+Add Class Member: Failed to add class member : Component SW3 1825910-6
+Add Class Member: Failed to add class member : Component SW4 1825910-6
+Add Class Member: Failed to add class member : Component SW5 1825910-6
+Add Class Member: Failed to add class member : Component SW6 1825910-6
+Add Class Member: Failed to add class member : Component SW7 1825910-6
+Add Class Member: Failed to add class member : Component SW8 1825910-6
+Add Class Member: Failed to add class member : Component SW9 1825910-6
+Add Class Member: Failed to add class member : Component SW10 1825910-6

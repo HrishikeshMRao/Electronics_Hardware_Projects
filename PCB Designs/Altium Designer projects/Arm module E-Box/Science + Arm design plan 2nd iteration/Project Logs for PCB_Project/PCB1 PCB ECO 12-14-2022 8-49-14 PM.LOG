@@ -1,0 +1,9 @@
+Add Component: Footprint Not Found TE_282834-3
+Added Pin To Net: NetName=Net1_3 Pin=J2-N
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Class Member: Failed to add class member : Component J3 282834-3
+Added Member To Class: ClassName=Sheet2 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet2 Member=Component J 110990030
+Added Room: Name=Sheet2

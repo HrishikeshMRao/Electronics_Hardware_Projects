@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\Hrishikesh M Rao\Documents\altium projects\Drive system E-box\motherboard\PCB_Project\PCB2.PcbDoc
+Date         : 4/10/2023
+Time         : 9:02:00 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 224.7086mmx145.5715mm
+    Components on board, 59
+count : 2

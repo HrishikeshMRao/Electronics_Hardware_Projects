@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=P2 Old Footprint=TE_282834-3 New Footprint=TE_282837-2
+Change Component Footprint: Designator=P3 Old Footprint=TE_282834-3 New Footprint=TE_282837-2
+Change Component Footprint: Designator=P4 Old Footprint=TE_282834-3 New Footprint=TE_282837-2
+Change Pin Designator/Name:  Old Designator=*-1 Old Name=M+ New Designator =IN+ New Name=1
+Change Pin Designator/Name:  Old Designator=J2-P Old Name=POS New Designator =NEG New Name=N

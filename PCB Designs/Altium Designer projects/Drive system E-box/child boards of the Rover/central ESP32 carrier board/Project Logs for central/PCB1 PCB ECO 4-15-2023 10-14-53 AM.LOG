@@ -1,0 +1,59 @@
+Change Component Designator: OldDesignator=* NewDesignator=1
+Change Component Designator: OldDesignator=* NewDesignator=2
+Change Component Designator: OldDesignator=* NewDesignator=3
+Change Net Name : Old Net Name=Net*_1 New Net Name=Net3_1
+Change Net Name : Old Net Name=Net*_2 New Net Name=Net1_2
+Change Net Name : Old Net Name=Net*_3 New Net Name=Net1_3
+Change Net Name : Old Net Name=Net*_5 New Net Name=Net1_5
+Change Net Name : Old Net Name=Net*_6 New Net Name=Net3_6
+Change Net Name : Old Net Name=Net*_7 New Net Name=Net1_7
+Change Net Name : Old Net Name=Net*_8 New Net Name=Net1_8
+Change Net Name : Old Net Name=Net*_12 New Net Name=Net3_12
+Change Net Name : Old Net Name=Net*_14 New Net Name=Net3_14
+Change Net Name : Old Net Name=Net*_15 New Net Name=Net3_15
+Change Net Name : Old Net Name=Net*_16 New Net Name=Net3_16
+Change Net Name : Old Net Name=Net*_17 New Net Name=Net3_17
+Change Net Name : Old Net Name=Net*_18 New Net Name=Net3_18
+Change Net Name : Old Net Name=Net*_19 New Net Name=Net3_19
+Change Net Name : Old Net Name=Net*_21 New Net Name=Net3_21
+Change Net Name : Old Net Name=Net*_22 New Net Name=Net3_22
+Change Net Name : Old Net Name=Net*_23 New Net Name=Net3_23
+Change Net Name : Old Net Name=Net*_25 New Net Name=Net3_25
+Change Net Name : Old Net Name=Net*_26 New Net Name=Net3_26
+Change Net Name : Old Net Name=Net*_27 New Net Name=Net3_27
+Change Net Name : Old Net Name=Net*_30 New Net Name=Net3_30
+Change Net Name : Old Net Name=Net*_32 New Net Name=Net3_32
+Change Net Name : Old Net Name=Net*_33 New Net Name=Net3_33
+Change Net Name : Old Net Name=Net*_34 New Net Name=Net3_34
+Change Net Name : Old Net Name=Net*_35 New Net Name=Net3_35
+Change Net Name : Old Net Name=Net*_36 New Net Name=Net3_36
+Change Net Name : Old Net Name=Net*_37 New Net Name=Net3_37
+Change Net Name : Old Net Name=Net*_38 New Net Name=Net3_38
+Change Net Name : Old Net Name=Net*_39 New Net Name=Net3_39
+Change Net Name : Old Net Name=Net*_40 New Net Name=Net3_40
+Added Pin To Net: NetName=Net1_1 Pin=1-1
+Added Pin To Net: NetName=Net1_1 Pin=F1-2
+Added Net: Name=Net1_1
+Added Pin To Net: NetName=Net1_4 Pin=1-4
+Added Pin To Net: NetName=Net1_4 Pin=3-3
+Added Net: Name=Net1_4
+Added Pin To Net: NetName=Net1_6 Pin=1-6
+Added Pin To Net: NetName=Net1_6 Pin=U1-14
+Added Pin To Net: NetName=Net1_6 Pin=U1-20
+Added Pin To Net: NetName=Net1_6 Pin=U1-26
+Added Net: Name=Net1_6
+Added Pin To Net: NetName=Net2_1 Pin=2-1
+Added Pin To Net: NetName=Net2_1 Pin=3-Pow+
+Added Net: Name=Net2_1
+Added Pin To Net: NetName=Net2_3 Pin=2-3
+Added Pin To Net: NetName=Net2_3 Pin=F1-1
+Added Net: Name=Net2_3
+Added Pin To Net: NetName=Net3_2 Pin=3-2
+Added Pin To Net: NetName=Net3_2 Pin=U1-34
+Added Net: Name=Net3_2
+Added Pin To Net: NetName=Net3_7 Pin=3-7
+Added Pin To Net: NetName=Net3_7 Pin=U1-2
+Added Net: Name=Net3_7
+Added Member To Class: ClassName=Sheet2 Member=Component 2 microbuck
+Added Member To Class: ClassName=Sheet2 Member=Component 3 breakoutboard
+Added Room: Name=Sheet2

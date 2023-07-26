@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\Hrishikesh M Rao\Documents\altium projects\Drive system E-box\child boards\rpi\rpi_childboard\rpi_childboard_pcb.PcbDoc
+Date         : 4/21/2023
+Time         : 10:13:02 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 80.9062mmx83.9539mm
+    Components on board, 11
+count : 2

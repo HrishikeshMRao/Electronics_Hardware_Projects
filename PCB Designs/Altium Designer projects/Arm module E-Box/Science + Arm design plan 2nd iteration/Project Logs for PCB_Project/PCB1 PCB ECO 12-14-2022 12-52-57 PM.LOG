@@ -1,0 +1,35 @@
+Add Component: Footprint Not Found TE_282834-3
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Added Pin To Net: NetName=GND Pin=J-4
+Added Pin To Net: NetName=GND Pin=J-4
+Added Pin To Net: NetName=GND Pin=J-4
+Add Net: Net with name "Net*_1" already exists
+Add Net: Net with name "Net*_1" already exists
+Add Net: Net with name "Net*_1" already exists
+Add Net: Net with name "Net*_2" already exists
+Add Net: Net with name "Net*_2" already exists
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=U1-12
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=U1-11
+Added Net: Name=NetR24_1
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR25_1 Pin=U1-8
+Added Net: Name=NetR25_1
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=U1-7
+Added Net: Name=NetR26_1
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=NetR27_1 Pin=U1-35
+Added Net: Name=NetR27_1
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Net: Name=NetR28_1
+Added Member To Class: ClassName=Sheet2 Member=Component * cytron_md_horizontal_p
+Added Member To Class: ClassName=Sheet2 Member=Component * micro_buck
+Added Member To Class: ClassName=Sheet2 Member=Component * cytron_md_horizontal_p
+Add Class Member: Failed to add class member : Component J3 282834-3
+Added Member To Class: ClassName=Sheet2 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet2 Member=Component J 110990030

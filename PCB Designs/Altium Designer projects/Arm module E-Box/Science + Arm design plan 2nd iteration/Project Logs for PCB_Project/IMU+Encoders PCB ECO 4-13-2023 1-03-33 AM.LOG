@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NetP?_1 Pin=P?-1
+Removed Pin From Net: NetName=NetP?_4 Pin=P?-4
+Removed Pin From Net: NetName=NetP?_5 Pin=P?-5
+Removed Pin From Net: NetName=NetP?_6 Pin=P?-6
+Removed Pin From Net: NetName=NetP?_8 Pin=P?-8
+Add Component: Footprint Not Found SHIELD_ARDUINO_NANO
+Added Pin To Net: NetName=NetP?_1 Pin=P?-1
+Added Pin To Net: NetName=NetP?_4 Pin=P?-4
+Added Pin To Net: NetName=NetP?_5 Pin=P?-5
+Added Pin To Net: NetName=NetP?_6 Pin=P?-6
+Added Pin To Net: NetName=NetP?_8 Pin=P?-8
+Add Pin To Net: Unknown Pin: Pin TB?-1
+Add Pin To Net: Unknown Pin: Pin TB?-2
+Add Pin To Net: Unknown Pin: Pin TB?-5
+Add Pin To Net: Unknown Pin: Pin TB?-6
+Add Pin To Net: Unknown Pin: Pin TB?-7
+Add Pin To Net: Unknown Pin: Pin TB?-8
+Add Pin To Net: Unknown Pin: Pin TB?-12
+Add Pin To Net: Unknown Pin: Pin TB?-13
+Add Pin To Net: Unknown Pin: Pin TB?-14
+Added Pin To Net: NetName=Net*_10 Pin=*-10
+Added Pin To Net: NetName=Net*_10 Pin=P?-2
+Added Net: Name=Net*_10
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Net: Name=Net*_11
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Net: Name=Net*_12
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Added Net: Name=Net*_14
+Added Pin To Net: NetName=Net*_17 Pin=P?-4
+Added Net: Name=Net*_17
+Added Pin To Net: NetName=Net*_18 Pin=P?-3
+Added Net: Name=Net*_18
+Added Pin To Net: NetName=Net*_19 Pin=P?-1
+Added Net: Name=Net*_19
+Add Net: Net with name "NetP?_5" already exists
+Add Net: Net with name "NetP?_6" already exists
+Add Net: Net with name "NetP?_7" already exists
+Add Net: Net with name "NetP?_8" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component * bno
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 9
+Add Class Member: Failed to add class member : Component TB? ARDUINO_NANO
+Added Room: Name=Sheet1

@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\Hrishikesh M Rao\Documents\altium projects\internship\node MCU base + groove board\node mcu base + groove board - Custom Buck\NodeMCU.PcbDoc
+Date         : 7/9/2023
+Time         : 5:22:22 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 100.3569mmx67.0829mm
+    Components on board, 39
+count : 2

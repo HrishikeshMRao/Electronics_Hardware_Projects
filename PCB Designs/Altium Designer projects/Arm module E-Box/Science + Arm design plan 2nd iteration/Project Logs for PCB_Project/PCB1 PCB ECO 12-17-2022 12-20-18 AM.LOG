@@ -1,0 +1,69 @@
+Change Component Footprint: Designator=R1 Old Footprint=J1-0603 New Footprint=12Z-2010
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Add Component: Footprint Not Found TE_282834-3
+Added Component: Designator=R29(AXIAL-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Added Pin To Net: NetName=can_N Pin=R29-1
+Added Pin To Net: NetName=can_P Pin=R29-2
+Added Pin To Net: NetName=NetD30_1 Pin=D30-1
+Added Pin To Net: NetName=NetD30_1 Pin=U1-27
+Added Net: Name=NetD30_1
+Added Member To Class: ClassName=Sheet2 Member=Component 2 cytron_md_horizontal_p
+Added Member To Class: ClassName=Sheet2 Member=Component 3 cytron_md_horizontal_p
+Added Member To Class: ClassName=Sheet2 Member=Component D1 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D3 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D5 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D7 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D9 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D11 D Schottky
+Added Member To Class: ClassName=Sheet2 Member=Component D13 D Schottky
+Added Member To Class: ClassName=Sheet2 Member=Component D15 D Schottky
+Added Member To Class: ClassName=Sheet2 Member=Component D17 D Schottky
+Added Member To Class: ClassName=Sheet2 Member=Component D20 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D21 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D23 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D25 D Schottky
+Added Member To Class: ClassName=Sheet2 Member=Component D27 D Schottky
+Added Member To Class: ClassName=Sheet2 Member=Component D30 Diode 1N914
+Added Member To Class: ClassName=Sheet2 Member=Component D33 Diode 1N914
+Added Member To Class: ClassName=Sheet2 Member=Component D35 Diode 1N914
+Added Member To Class: ClassName=Sheet2 Member=Component D36 Diode 1N914
+Added Member To Class: ClassName=Sheet2 Member=Component D37 Diode 1N914
+Added Member To Class: ClassName=Sheet2 Member=Component D39 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component F2 4527
+Add Class Member: Failed to add class member : Component J3 282834-3
+Added Member To Class: ClassName=Sheet2 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet2 Member=Component J 110990030
+Added Member To Class: ClassName=Sheet2 Member=Component P2 282837-2
+Added Member To Class: ClassName=Sheet2 Member=Component P3 282837-2
+Added Member To Class: ClassName=Sheet2 Member=Component P4 282837-2
+Added Member To Class: ClassName=Sheet2 Member=Component P6 282837-2
+Added Member To Class: ClassName=Sheet2 Member=Component P9 Header 4
+Added Member To Class: ClassName=Sheet2 Member=Component P11 282837-2
+Added Member To Class: ClassName=Sheet2 Member=Component P14 282837-2
+Added Member To Class: ClassName=Sheet2 Member=Component P15 Header 4H
+Added Member To Class: ClassName=Sheet2 Member=Component R1 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R2 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R5 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R7 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R9 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R12 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R13 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R14 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R15 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R17 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R20 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R23 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R25 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R26 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R27 Res3
+Added Member To Class: ClassName=Sheet2 Member=Component R29 Res1

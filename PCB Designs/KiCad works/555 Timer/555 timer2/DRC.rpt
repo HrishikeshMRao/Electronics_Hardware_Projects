@@ -1,0 +1,89 @@
+** Drc report for C:\Users\Hrishikesh M Rao\Documents\KiCad works\555 Timer\555 timer2\555 timer2.kicad_pcb **
+** Created on 2022-07-10 01:03:40 **
+
+** Found 20 DRC violations **
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0100 in; actual 0.0000 in)
+    Rule: netclass 'Default'; Severity: error
+    @(6.1750 in, 2.8860 in): Track [Net-(C1-Pad1)] on F.Cu, length 0.2000 in
+    @(6.1750 in, 2.8850 in): Through hole pad 6 [<no net>] of REF**
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0100 in; actual 0.0000 in)
+    Rule: netclass 'Default'; Severity: error
+    @(6.3752 in, 2.8860 in): Track [Net-(C1-Pad1)] on F.Cu, length 0.1414 in
+    @(6.4750 in, 2.9850 in): Through hole pad 2 [<no net>] of REF**
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0100 in; actual 0.0000 in)
+    Rule: netclass 'Default'; Severity: error
+    @(6.1752 in, 2.9860 in): Track [Net-(D3-Pad2)] on F.Cu, length 0.1215 in
+    @(6.1750 in, 2.9850 in): Through hole pad 7 [<no net>] of REF**
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0100 in; actual 0.0010 in)
+    Rule: netclass 'Default'; Severity: error
+    @(5.9252 in, 2.7539 in): Track [Net-(RV1-Pad2)] on F.Cu, length 0.2179 in
+    @(6.1750 in, 2.7850 in): Through hole pad 5 [<no net>] of REF**
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0100 in; actual 0.0000 in)
+    Rule: netclass 'Default'; Severity: error
+    @(6.1431 in, 2.7539 in): Track [Net-(RV1-Pad2)] on F.Cu, length 0.0454 in
+    @(6.1750 in, 2.7850 in): Through hole pad 5 [<no net>] of REF**
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0100 in; actual 0.0000 in)
+    Rule: netclass 'Default'; Severity: error
+    @(6.4752 in, 2.8860 in): Track [Net-(R3-Pad1)] on F.Cu, length 0.0629 in
+    @(6.4750 in, 2.8850 in): Through hole pad 3 [<no net>] of REF**
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0100 in; actual 0.0000 in)
+    Rule: netclass 'Default'; Severity: error
+    @(6.1752 in, 3.0860 in): Track [VCC] on F.Cu, length 0.1359 in
+    @(6.1750 in, 3.0850 in): Through hole pad 8 [<no net>] of REF**
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0100 in; actual 0.0000 in)
+    Rule: netclass 'Default'; Severity: error
+    @(6.1752 in, 3.0860 in): Track [VCC] on F.Cu, length 0.0633 in
+    @(6.1750 in, 3.0850 in): Through hole pad 8 [<no net>] of REF**
+[clearance]: Clearance violation (netclass 'Default' clearance 0.0100 in; actual 0.0000 in)
+    Rule: netclass 'Default'; Severity: error
+    @(6.3024 in, 2.6132 in): Track [VCC] on F.Cu, length 0.2444 in
+    @(6.4750 in, 2.7850 in): Through hole pad 4 [<no net>] of REF**
+[invalid_outline]: Board has malformed outline (no edges found on Edge.Cuts layer)
+    Local override; Severity: error
+    @(0.0000 in, 0.0000 in): PCB
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(6.1850 in, 3.1325 in): Line on F.Silkscreen
+    @(6.1750 in, 2.9850 in): Through hole pad 7 [<no net>] of REF**
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(6.1850 in, 3.1325 in): Line on F.Silkscreen
+    @(6.1750 in, 3.0850 in): Through hole pad 8 [<no net>] of REF**
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(6.1850 in, 3.1325 in): Line on F.Silkscreen
+    @(6.1750 in, 2.7850 in): Through hole pad 5 [<no net>] of REF**
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(6.1850 in, 3.1325 in): Line on F.Silkscreen
+    @(6.1750 in, 2.8850 in): Through hole pad 6 [<no net>] of REF**
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(6.4650 in, 3.1356 in): Line on F.Silkscreen
+    @(6.4750 in, 3.0850 in): Through hole pad 1 [<no net>] of REF**
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(6.4650 in, 3.1356 in): Line on F.Silkscreen
+    @(6.4750 in, 2.9850 in): Through hole pad 2 [<no net>] of REF**
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(6.4650 in, 3.1356 in): Line on F.Silkscreen
+    @(6.4750 in, 2.8850 in): Through hole pad 3 [<no net>] of REF**
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(6.4650 in, 3.1356 in): Line on F.Silkscreen
+    @(6.4750 in, 2.7850 in): Through hole pad 4 [<no net>] of REF**
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(6.6752 in, 3.1486 in): Arc on F.Silkscreen
+    @(6.7252 in, 3.1486 in): Through hole pad 1 [GND] of D1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: board setup constraints silk; Severity: warning
+    @(6.6752 in, 3.1486 in): Arc on F.Silkscreen
+    @(6.7252 in, 3.1486 in): Through hole pad 1 [GND] of D1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
