@@ -1,0 +1,288 @@
+*************************************************************
+FileName = ESP32-Lightsensor.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : ESP32-Lightsensor_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ESP32-Lightsensor_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ESP32-Lightsensor_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ESP32-Lightsensor_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ESP32-Lightsensor_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ESP32-Lightsensor_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ESP32-Lightsensor_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ESP32-Lightsensor_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ESP32-Lightsensor_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ESP32-Lightsensor_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ESP32-Lightsensor_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : ESP32-Lightsensor_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Document
+      File : ESP32-Lightsensor_Document.gbr
+
+    Adding Layer      : Document
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : ESP32-Lightsensor_Profile.gbr
+
+
+Used DCodes :
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : ESP32-Lightsensor_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : ESP32-Lightsensor_PTH_Drill.gbr
+
+
+Used DCodes :
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : ESP32-Lightsensor_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D35
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : ESP32-Lightsensor_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D35
+*************************************************************
+

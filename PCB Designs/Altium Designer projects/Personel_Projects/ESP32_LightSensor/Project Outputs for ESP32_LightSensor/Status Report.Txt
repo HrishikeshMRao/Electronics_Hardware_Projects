@@ -1,0 +1,30 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [ESP32_LightSensor.PrjPcb]
+   Generated File[ESP32-Lightsensor_Copper_Signal_Top.gbr]
+   Generated File[ESP32-Lightsensor_Copper_Signal_Bot.gbr]
+   Generated File[ESP32-Lightsensor_Pads_Bot.gbr]
+   Generated File[ESP32-Lightsensor_Pads_Top.gbr]
+   Generated File[ESP32-Lightsensor_Legend_Bot.gbr]
+   Generated File[ESP32-Lightsensor_Soldermask_Bot.gbr]
+   Generated File[ESP32-Lightsensor_Paste_Bot.gbr]
+   Generated File[ESP32-Lightsensor_Legend_Top.gbr]
+   Generated File[ESP32-Lightsensor_Paste_Top.gbr]
+   Generated File[ESP32-Lightsensor_Soldermask_Top.gbr]
+   Generated File[ESP32-Lightsensor_Keep-out.gbr]
+   Generated File[ESP32-Lightsensor_Mechanical_13.gbr]
+   Generated File[ESP32-Lightsensor_Document.gbr]
+   Generated File[ESP32-Lightsensor_Profile.gbr]
+   Generated File[ESP32-Lightsensor_NPTH_Drill.gbr]
+   Generated File[ESP32-Lightsensor_PTH_Drill.gbr]
+   Generated File[ESP32-Lightsensor_Drawing_1.gbr]
+   Generated File[ESP32-Lightsensor_Drillmap_1.gbr]
+   Generated File[ESP32-Lightsensor.RUL]
+   Generated File[ESP32-Lightsensor.EXTREP]
+   Generated File[ESP32-Lightsensor.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 9:50:11 PM On 10/22/2023
